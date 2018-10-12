@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "python",
+      "interpreter": "C:\\Python27\\python.exe",
+      "interpreterArguments": "",
+      "scriptArguments": "",
+      "nativeDebug": false,
+      "webBrowserUrl": "",
+      "project": "PrecinctSignage.py",
+      "name": "PrecinctSignage.py"
+    }
+  ]
+}
